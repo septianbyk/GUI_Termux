@@ -24,11 +24,10 @@ Semua Pengistallan Di lakukan Secara Otomatis |
 <br>
 <br>
 
-<h3>Note</h3>
-
-<h4>Proyek Ini Baru Saja Di Buat Dan Kami Mengembangkan Lagi Jika Ada Bug Segera Report
-
-<br><br><br>
+<h3>review</h3>
+<p align="center"
+<img src="https://github.com/BAIT-LINUX/GUI_Termux/blob/5f864c8c6780668003cd96626cb473053c39b4b9/docs/Screenshot_20211124-233102_Termux.jpg">
+<br><br><br></p>
 
 <h3>Gandakan Repo</h3>
 
