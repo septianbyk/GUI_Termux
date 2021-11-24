@@ -1,6 +1,7 @@
 
-
-
+<p align='center'>
+<img src="https://github.com/BAIT-LINUX/GUI_Termux/blob/main/docs/20211124_230506.jpg" width="90%">
+   </p>
 <br><br><br><br>
 
 
