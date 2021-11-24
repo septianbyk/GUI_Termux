@@ -44,10 +44,13 @@ Semua Pengistallan Di lakukan Secara Otomatis |
 
 >Bantu Suport Saya Di 
 
-<h4>@<a href="https://youtube.com/c/KangBaIT">Chanel Saya</a></h4>
+<h4><a href="https://youtube.com/c/KangBaIT">Chanel Saya</a></h4>
 
 
-<h4>@<a href="https://kang-bait.blogspot.com">Blog Saya</a></h4>
+<h4><a href="https://kang-bait.blogspot.com">Blog Saya</a></h4>
+   
+   
+<h4><a href="https://saweria.co/kangbait">Buy me Coffe</a></h4>
 <br><br><br><br>
 
 
