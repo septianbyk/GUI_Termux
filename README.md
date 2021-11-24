@@ -33,7 +33,7 @@ Semua Pengistallan Di lakukan Secara Otomatis |
 <h3>Gandakan Repo</h3>
 
 ------------------------------------------------------------
-     $git clone https://github.com/KANG-BAIT/GUI_Termux.git
+     $git clone https://github.com/BAIT-LINUX/GUI_Termux
      $cd GUI_Termux
      $sh Run.sh   
 
