@@ -24,20 +24,20 @@ Semua Pengistallan Di lakukan Secara Otomatis |
 <br>
 <br>
 
-<h3>review</h3>
+# Review
 <p align="center">
 <img src="https://github.com/BAIT-LINUX/GUI_Termux/blob/5f864c8c6780668003cd96626cb473053c39b4b9/docs/Screenshot_20211124-233102_Termux.jpg">
 <br><br><br></p>
 
-<h3>Gandakan Repo</h3>
+# Gandakan Repo
 
 ------------------------------------------------------------
      git clone https://github.com/BAIT-LINUX/GUI_Termux.git && cd GUI_Termux && sh Run.sh 
 
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
-<h3>Suport</h3>
+# Suport
 
 >Bantu Suport Saya Di 
 
