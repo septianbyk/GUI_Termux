@@ -48,10 +48,10 @@ Semua Pengistallan Di lakukan Secara Otomatis |
    
    
 <h4><a href="https://saweria.co/kangbait">Buy me Coffe</a></h4>
-<br><br><br><br>
+<br><br><br>
 
 
-<h3>Upgrade Mendatang</h3>
+# Upgrade Mendatang
 
 
 - [x] Penyelesaian Bug
